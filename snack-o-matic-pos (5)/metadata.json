@@ -1,5 +1,0 @@
-{
-  "name": "Snack-O-Matic POS",
-  "description": "A high-contrast, dark-mode Point of Sale app for a school snack business featuring quick-tap inventory, live totals, and daily sales logging with persistent storage.",
-  "requestFramePermissions": []
-}
